@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Metaphor V2',
+    title: 'Metaphor v2',
     description: 'A CSUN-Branded Theme for Bootstrap 4',
     base: '/metaphorV2/',
     head: [
