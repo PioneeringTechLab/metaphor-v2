@@ -7,7 +7,7 @@ This is a custom Bootstrap 4 theme with CSUN branding.
 
 This repository includes a project structure with a build script that builds a custom CSS version of Bootstrap 4 using Gulp.
 
-Also included in this repository is the docs for MetaphorV2, which are [served up here](https://pioneeringtechlab.net/metaphor-v2/)
+Also included in this repository is the docs for Metaphor v2, which are [served up here](https://pioneeringtechlab.net/metaphor-v2/)
  using github pages and powered by [VuePress](https://vuepress.vuejs.org/).
 
 
