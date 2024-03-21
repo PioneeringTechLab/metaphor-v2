@@ -13,7 +13,9 @@ npm run docs:build
 # echo 'www.example.com' > CNAME
 
 git subtree split --branch gh-pages --prefix docs/.vuepress/dist/
-
+git checkout gh-pages
+git push
+git checkout -
 #git init
 #git add -A
 #git commit -m 'deploy'
