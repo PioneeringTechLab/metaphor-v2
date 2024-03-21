@@ -1,0 +1,42 @@
+{
+  "name": "metaphor-theme",
+  "version": "2.0.14",
+  "description": "CSUN-branded Bootstrap 4 theme",
+  "repository": "https://github.com/PioneeringTechLab/metaphor-v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "bootstrap",
+    "themes"
+  ],
+  "author": "META+LAB",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
+    "@fortawesome/free-brands-svg-icons": "^5.0.13",
+    "@fortawesome/free-regular-svg-icons": "^5.0.13",
+    "@fortawesome/free-solid-svg-icons": "^5.0.13",
+    "jquery": "1.9.1 - 3",
+    "popper.js": "^1.14.3"
+  },
+  "bundledDependencies": [
+    "bootstrap"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^8.6.5",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "vuepress": "^0.14.2"
+  }
+}
