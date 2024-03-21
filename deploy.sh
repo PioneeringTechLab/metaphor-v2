@@ -7,19 +7,21 @@ set -e
 npm run docs:build
 
 # navigate into the build output directory
-cd docs/.vuepress/dist
+#cd docs/.vuepress/dist
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
-git init
-git add -A
-git commit -m 'deploy'
+git subtree split --branch gh-pages --prefix docs/.vuepress/dist/
+
+#git init
+#git add -A
+#git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/csun-metalab/metaphorV2.git master:gh-pages
+#git push -f https://github.com/PioneeringTechLab/metaphor-v2.git master:gh-pages
 
-cd -
+#cd -
