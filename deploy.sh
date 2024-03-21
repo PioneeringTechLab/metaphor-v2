@@ -8,7 +8,7 @@ npm run docs:build
 
 
 # create a new version of the gh-pages branch
-git subtree split --branch gh-pages --prefix docs/.vuepress/dist/
+git subtree split --branch gh-pages --prefix docs/.vuepress/dist/ master
 git subtree push
 # switch to newly created branch and push
 #git checkout gh-pages
