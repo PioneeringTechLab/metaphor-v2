@@ -16,6 +16,7 @@ git subtree split --branch gh-pages --prefix docs/.vuepress/dist/
 git checkout gh-pages
 git push
 git checkout -
+git rm gh-pages
 #git init
 #git add -A
 #git commit -m 'deploy'
