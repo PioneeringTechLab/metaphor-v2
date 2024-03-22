@@ -2,7 +2,7 @@
   "name": "metaphor-theme",
   "version": "2.0.14",
   "description": "CSUN-branded Bootstrap 4 theme",
-  "repository": "https://github.com/andrewMETALAB/metaphorV2",
+  "repository": "https://github.com/PionneringTechLab/metaphor-v2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

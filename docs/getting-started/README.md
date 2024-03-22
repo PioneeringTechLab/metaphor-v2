@@ -8,7 +8,7 @@ It is necessary to read and understand the Bootstrap 4 docs in order to work wit
 
 Metaphor is available via CDN. Just copy this code into the `<head>` of your website.
 
-    <link rel="stylesheet" href="https://s3-us-west-2.amazonaws.com/csun-metalab/metaphor/dist/css/metaphor-v2.min.css">
+    <link rel="stylesheet" href="https://pioneeringtechlab.net/metaphor-v2/dist/css/metaphor-v2.min.css">
 
 ## Download
 

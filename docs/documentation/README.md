@@ -506,7 +506,7 @@ A CSUN branded footer component.
       <div class="col-12 col-md-5">
         <div class="row mb-3 mb-md-0">
           <div class="col-12 col-md-3">
-              <img class="d-block mx-auto mx-md-0 img-fluid footer-metaphor__emblem mb-3 mb-md-0" src="//s3-us-west-2.amazonaws.com/csun-metalab/metaphor/dist/img/csun-emblem.svg" alt="CSUN Emblem">
+              <img class="d-block mx-auto mx-md-0 img-fluid footer-metaphor__emblem mb-3 mb-md-0" src="//pioneeringtechlab.net/metaphor/dist/img/csun-emblem.svg" alt="CSUN Emblem">
           </div>
           <div class="col-12 col-md-9">
             <h6>META+LAB </h6>
@@ -556,7 +556,7 @@ A CSUN branded footer component.
             <div class="col-12 col-md-5">
                 <div class="row mb-3 mb-md-0">
                 <div class="col-12 col-md-3">
-                    <img class="d-block mx-auto mx-md-0 img-fluid footer-metaphor__emblem mb-3 mb-md-0" src="//s3-us-west-2.amazonaws.com/csun-metalab/metaphor/dist/img/csun-emblem.svg" alt="CSUN Emblem">
+                    <img class="d-block mx-auto mx-md-0 img-fluid footer-metaphor__emblem mb-3 mb-md-0" src="//pioneeringtechlab.net/metaphor/dist/img/csun-emblem.svg" alt="CSUN Emblem">
                 </div>
                 <div class="col-12 col-md-9">
                     <h6>META+LAB </h6>
