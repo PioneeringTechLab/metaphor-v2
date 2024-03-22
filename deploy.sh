@@ -6,9 +6,4 @@ set -e
 # build
 npm run docs:build
 
-# navigate into the build output directory
-cd docs/.vuepress
-
-git subtree push --prefix dist origin gh-pages
-
-cd -
+git subtree push --prefix docs/.vuepress/dist origin gh-pages
