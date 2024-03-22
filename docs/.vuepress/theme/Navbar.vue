@@ -3,7 +3,7 @@
     <nav class="navbar navbar-metaphor navbar-expand-md">
       <!-- <SidebarButton @toggle-sidebar="$emit('toggle-sidebar')"/> -->
       
-      <a class="navbar-brand" href="/metaphorV2/"> 
+      <a class="navbar-brand" href="./metaphor-v2/"> 
         <span class="sr-only">CSUN Logo</span> 
         <span class="navbar-brand__subbrand">
           Metaphor

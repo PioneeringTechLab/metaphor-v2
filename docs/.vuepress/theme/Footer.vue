@@ -5,7 +5,7 @@
             <div class="col-12 col-md-5">
                 <div class="row mb-3 mb-md-0">
                 <div class="col-12 col-md-3">
-                    <img class="d-block mx-auto mx-md-0 img-fluid footer-metaphor__emblem mb-3 mb-md-0" src="//s3-us-west-2.amazonaws.com/csun-metalab/metaphor/dist/img/csun-emblem.svg" alt="CSUN Emblem">
+                    <img class="d-block mx-auto mx-md-0 img-fluid footer-metaphor__emblem mb-3 mb-md-0" src="//pioneeringtechlab.net/metaphor/dist/img/csun-emblem.svg" alt="CSUN Emblem">
                 </div>
                 <div class="col-12 col-md-9">
                     <h6>META+LAB </h6>
@@ -51,7 +51,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-2">
-                        <img class="footer-metaphor__logo mb-3" src="//s3-us-west-2.amazonaws.com/csun-metalab/metaphor/dist/img/metalab-logo.svg" alt="META+LAB Logo">
+                        <img class="footer-metaphor__logo mb-3" src="//pioneeringtechlab.net/csu/metaphor/dist/img/metalab-logo.svg" alt="META+LAB Logo">
                         <div class="mb-2 mb-md-0">
                             <a href="//www.metalab.csun.edu" target="csun">metalab.csun.edu</a>
                         </div>
