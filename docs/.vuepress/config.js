@@ -10,7 +10,7 @@ module.exports = {
     ],
     themeConfig: {
         search: false,
-        repo: 'andrewMETALAB/metaphorV2',
+        repo: 'PioneeringTechLab/metaphor-v2',
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Getting Started', link: '/getting-started/' },
